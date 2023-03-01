@@ -9,7 +9,7 @@ let extraScore = 1;
 let wuDi = true;
 
 // 第一个水果：修改数字为 0-10, 0 为葡萄，9 为半个西瓜
-let firstFruit = 9;
+let firstFruit = 2;
 
 // 水果合成反转：false 改为 true
 let reverseLevelUp = false;
@@ -38,7 +38,7 @@ let clickChangeFruit = true;
 let adLink = 'CatjingY.github.io';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = '合成宇宙国';
+document.getElementsByTagName("title")[0].innerText = '合成法法';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
